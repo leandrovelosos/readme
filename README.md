@@ -59,12 +59,12 @@ npm start
 
 ### Tecnologias Utilizadas
 
-- Backend:
+- **Backend:**
   - Spring Boot: Framework Java para o desenvolvimento backend.
   - MySQL: Banco de dados relacional para armazenamento de dados.
   - Amazon S3: Serviço de armazenamento em nuvem para o upload de imagens.
   
-- Frontend:
+- **Frontend:**
   - React: Biblioteca JavaScript para a construção de interfaces de usuário.
   - TypeScript: Superset do JavaScript que adiciona tipagem estática.
   

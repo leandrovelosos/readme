@@ -5,7 +5,7 @@
 </div>
 
 # **Universidade Federal do Pará**
-## TÓPICOS ESPECIAIS EM DESENVOLVIMENTO PARA INTERNET - CodeSlice
+## TÓPICOS ESPECIAIS EM DESENVOLVIMENTO PARA INTERNET – CodeSlice
 ### Pré-requisitos
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 <br>
